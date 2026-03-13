@@ -35,8 +35,7 @@ const srichandana = {
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
-
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350"/>
 </td>
 </tr>
 </table>
