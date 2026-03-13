@@ -82,7 +82,7 @@ const srichandana = {
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Srichandana03/Srichandana03/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Srichandana03/Srichandana03/output/github-contribution-grid-snake.svg)
 
 ---
 
