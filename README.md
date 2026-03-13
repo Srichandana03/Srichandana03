@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋 I'm Srichandana</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Future+AI+Engineer;Computer+Vision+Learner;DSA+Enthusiast" />
-</p>
-
----
-
-## 👩‍💻 Coding Life
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Future+AI+Engineer;Computer+Vision+Learner;DSA+Enthusiast"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="50%">
+
 ```javascript
 const srichandana = {
   pronouns: "She/Her",
   location: "India",
   currentFocus: "Artificial Intelligence & Machine Learning",
-  learning: ["DSA", "Computer Vision", "Machine Learning"],
+  learning: ["DSA", "Java Springboot", "Machine Learning"],
   interests: ["Problem Solving", "AI", "Web Development"],
 
   lifeLoop(){
@@ -34,6 +30,16 @@ const srichandana = {
   }
 }
 ```
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
