@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Srichandana Peddi</h1>
+<h1 align="center">Hi 👋 I'm Srichandana</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Future+AI+Engineer;Computer+Vision+Learner;DSA+Enthusiast"/>
@@ -35,7 +35,7 @@ const srichandana = {
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 
 </td>
 </tr>
